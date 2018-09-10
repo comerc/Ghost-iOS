@@ -1,6 +1,6 @@
 <a href="https://github.com/TryGhost/Ghost"><img src="https://cloud.githubusercontent.com/assets/120485/18661790/cf942eda-7f17-11e6-9eb6-9c65bfc2abd8.png" alt="Ghost" /></a>
 
-Drat - There's nothing here!
+Draft - There's nothing here!
 
 Are you interested in helping us make an official iOS app for Ghost? While the Ghost core team works over in the [main repository](https://github.com/tryghost/ghost), our native apps are all built by open source contributors and are downloaded hundreds of thousands of times. 
 
